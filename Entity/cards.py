@@ -13,3 +13,6 @@ class Card(arcade.Sprite):
         self.name = name
         self.type = type
         super().__init__(f":resources:{sprite}")
+
+
+print("This is a commit example.")
