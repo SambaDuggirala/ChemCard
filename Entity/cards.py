@@ -4,3 +4,6 @@ class Card:
     def __init__(self, name: str = "Primitive card", type: str = "Primitive"):
         self.name = name
         self.type = type
+
+
+jkj
